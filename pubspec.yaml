@@ -26,6 +26,7 @@ dependencies:
     git:
       url: git@github.com:imsilly/git_dependency.git
       path: path/to/git_dependency_with_no_ref
+  http: ^0.8.0
 
 dev_dependencies:
   flutter_test:
